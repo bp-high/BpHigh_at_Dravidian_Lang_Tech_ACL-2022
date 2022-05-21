@@ -69,6 +69,14 @@ L refers to the set of class labels.
 
 * We use the [IndicNLP tokenizer](https://indic-nlp-library.readthedocs.io/en/latest/indicnlp.tokenize.html) for Indian languages for pre-processing the input sentences and the Tamil fastText model from the [IndicNLP suite](https://indicnlp.ai4bharat.org/fasttext/) as a ’Word Embeddings Augmenter’ to generate word-level augmented sentences. Then we train our classifier using this new balanced version of the train dataset.
 
+### `Results`
+<p align="center">
+<img src="https://github.com/bp-high/BpHigh_at_Dravidian_Lang_Tech_ACL-2022/blob/main/Resources/Results.png" 
+     width="800" 
+     alt="Results"  
+     align="center" />
+ </p>
+
 
 
 
