@@ -1,4 +1,4 @@
-# BpHigh_at_Dravidian_Lang_Tech_ACL-2022
+# BpHigh@TamilNLP-ACL2022: Effects of Data Augmentation on Indic-Transformer based classifier for Abusive Comments Detection in Tamil
 Kernels used for model training using Kaggle Notebooks and other experimental kernels as well as Kernels used for data augmentation purposes.
 
 ### `Repo-Visits`
@@ -41,10 +41,10 @@ Kernels used for model training using Kaggle Notebooks and other experimental ke
 
 * We take the help of the [NlpAug library](https://github.com/makcedward/nlpaug)
 , which provides the methods to perform word-level augmentation using contextual models as well as non-contextual word embeddings like Word2vec, fastText, and Glove.
-
-
-
-
-
-
+<p align="center">
+<img src="https://github.com/bp-high/BpHigh_at_Dravidian_Lang_Tech_ACL-2022/blob/main/Resources/Classfier_Structure.png" 
+     width="500" 
+     alt="Classifier Structure"  
+     align="center" />
+ </p>
 
